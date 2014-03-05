@@ -1,0 +1,23 @@
+# Copyright 2014 Gentoo Foundation
+# Distributed under the terms of the GNU General Public License v2
+
+# created by maintainer
+Makefile.in
+aclocal.m4
+autom4te.cache
+config.guess
+config.sub
+configure
+install-sh
+ltmain.sh
+m4
+missing
+
+# created by configure
+Makefile
+config.log
+config.status
+libtool
+
+# created by make
+*-libtool
